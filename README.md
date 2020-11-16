@@ -20,6 +20,8 @@ In this repo, you'll find two notebooks:
 1. [tutorial](tutorial.ipynb): the original notebook with solutions 
 2. [tutorial_walkthrough](tutorial_walkthrough.ipynb): fill-in-the-blank notebook (use this one to follow along during the live tutorial)
 
+Workshop slides can be found [here](https://speakerdeck.com/topspinj/tmls-2020-recommender-system-workshop).
+
 ### Getting Started 
 
 There are two options for setting up your environment:
